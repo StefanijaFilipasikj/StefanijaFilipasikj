@@ -50,11 +50,9 @@
 
 <h3>I'm currently a student and an intern, working hard to advance my career. I'm eager to learn, grow, and make meaningful contributions</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanijafilipasikj&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=1000&title_color=000000" alt="stefanijafilipasikj" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanijafilipasikj&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=1000&title_color=000000" alt="stefanijafilipasikj" /></p>
 
-<p>&nbsp;</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=stefanijafilipasikj&show_icons=true&locale=en&title_color=000000&icon_color=EF5291&ring_color=EF5291&card_width=1000" alt="stefanijafilipasikj" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=stefanijafilipasikj&show_icons=true&locale=en&title_color=000000&icon_color=EF5291&ring_color=EF5291&card_width=490" alt="stefanijafilipasikj" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanijafilipasikj&mode=weekly&ring=EF5291&fire=EF5291&currStreakLabel=EF5291&card_width=490" alt="stefanijafilipasikj" /></p
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stefanijafilipasikj&mode=weekly&ring=EF5291&fire=EF5291&currStreakLabel=EF5291&card_width=1000" alt="stefanijafilipasikj" /></p
                                                                                                                                                                                                                 
-# <h1></h1>
