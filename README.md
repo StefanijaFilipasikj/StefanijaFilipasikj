@@ -1,14 +1,14 @@
 <h1 align="center">:hibiscus: Hi, I'm Stefanija Filipasikj :hibiscus: </h1>
-<h3 align="center">A passionate full stack developer from North Macedonia</h3>
+<h3 align="center">A aspiring full stack developer from North Macedonia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanijafilipasikj" alt="stefanijafilipasikj" /></a> </p>
-
-📫 How to reach me **sfilipasikj@yahoo.com**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanijafilipasikj&column=9" alt="stefanijafilipasikj" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stefanija-filipasikj-8b7000308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanija filipasikj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stefanija-filipasikj-8b7000308/" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanija-filipasikj-8b7000308/" height="30" width="40" /></a>
+<a href="mailto:sfilipasikj@yahoo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/yahoo.svg" alt="sfilipasikj@yahoo.com" height="30" width="40" /></a>
 <a href="https://instagram.com/sfilipasikj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sfilipasikj" height="30" width="40" /></a>
+<a href="https://www.facebook.com/stefanija.filipasikj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stefanija.filipasikj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,9 +48,13 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanijafilipasikj&show_icons=true&locale=en&layout=compact" alt="stefanijafilipasikj" /></p>
+<h3>I'm currently a student and an intern, working hard to advance my career. I'm eager to learn, grow, and make meaningful contributions</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanijafilipasikj&show_icons=true&locale=en" alt="stefanijafilipasikj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanijafilipasikj&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=1000&title_color=000000" alt="stefanijafilipasikj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanijafilipasikj&" alt="stefanijafilipasikj" /></p>
+<p>&nbsp;</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=stefanijafilipasikj&show_icons=true&locale=en&title_color=000000&icon_color=EF5291&ring_color=EF5291&card_width=490" alt="stefanijafilipasikj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanijafilipasikj&mode=weekly&ring=EF5291&fire=EF5291&currStreakLabel=EF5291&card_width=490" alt="stefanijafilipasikj" /></p
+                                                                                                                                                                                                                
+# <h1></h1>
