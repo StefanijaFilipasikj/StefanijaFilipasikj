@@ -1,7 +1,7 @@
 <h1 align="center">:hibiscus: Hi, I'm Stefanija Filipasikj :hibiscus: </h1>
 <h3 align="center">A software engineer from North Macedonia</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanijafilipasikj" alt="stefanijafilipasikj" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanijafilipasikj&column=9" alt="stefanijafilipasikj" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
